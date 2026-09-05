@@ -26,15 +26,15 @@ body {
 
 @keyframes backgroundChange {
   0%, 30%{
-    background-image: url("images/BushSunset.jpg");
+    background-image: url("WinterLake.JPG");
   }
   33%, 63%{
-    background-image:url("images/NewBuffalo.jpg");
+    background-image:url("PortageSunset.JPG");
   }
   66%, 96%{
-    background-image:url("images/PortageSunset.jpg");
+    background-image:url("NewBuffalo.JPG");
   }
   100%{
-    background-image:url("images/WinterLake.jpg");
+    background-image:url("BushSunset.JPG");
   }
 }
